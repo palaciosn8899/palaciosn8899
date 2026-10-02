@@ -80,5 +80,5 @@ Built features for an AI tutoring platform that combines **local LLMs**, documen
 
 ## Connect with me!
 
-- **GitHub:** [@YOUR_GITHUB_USERNAME](https://github.com/palaciosn8899)
+- **GitHub:** [@palaciosn8899](https://github.com/palaciosn8899)
 - **LinkedIn:** [Niko Palacios](https://www.linkedin.com/in/nikolas-palacios/)
